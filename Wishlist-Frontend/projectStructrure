@@ -1,0 +1,12 @@
+wishlist-app/
+|--src/
+   |--components/
+      |--Wishlist.js
+   |--services/
+      |--wishlist.js
+   |--App.js
+   |--index.js
+|--public/
+   |--index.html
+|--package.json
+|--webpack.config.js

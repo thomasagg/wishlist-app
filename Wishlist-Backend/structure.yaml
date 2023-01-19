@@ -1,0 +1,17 @@
+  wishlist-app/
+    |--src/
+    |--main/
+       |--java/
+           |--com/example/wishlist/
+               |--controller/
+                   |--WishlistController.java
+               |--model/
+                   |--WishlistItem.java
+               |--repository/
+                   |--WishlistRepository.java
+               |--service/
+                   |--WishlistService.java
+               |--Main.java
+       |--resources/
+           |--application.properties
+    |--pom.xml
