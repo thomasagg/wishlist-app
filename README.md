@@ -1,6 +1,6 @@
 # Wishlist App
 
-The Wishlist App is a full-stack web application that allows users to add, view, edit, and delete wishlist items. The app is built using React.js, Java, MongoDB, and Spring Boot. It provides a user-friendly interface that is responsive and optimized for different devices.
+The Wishlist App is a full-stack web application that allows users to add, view, edit, and delete wishlist items. The app is built using React.js, Java, MongoDB, and Spring Boot.
 
 ## Features
 
